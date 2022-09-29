@@ -1,0 +1,5 @@
+venv/
+item/__pycache__/
+shop/__pycache__/
+item/migrations/__pycache__/
+.idea/
